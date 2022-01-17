@@ -5,8 +5,7 @@ Title: Written Analysis of Results
 
 Overview of the project
   
-  The purpose of this project was to use VBA, a prograaming langued used by excel to analyze by running a set of commands that is applicable for multiple data sets. 
-  The results of this analysis would essentially bused to make data driven decisions related to diversifying a client's stock. This analysis will allow the client  to make the best decision to grow their money by investing in the right industry. 
+  The purpose of this project was to use VBA, a prograaming langued used by excel to analyze by running a set of commands that is applicable for multiple data sets. The results of this analysis would essentially bused to make data driven decisions related to diversifying a client's stock. This analysis will allow the client  to make the best decision to grow their money by investing in the right industry. 
   
 Results
    
