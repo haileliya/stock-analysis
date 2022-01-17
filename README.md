@@ -10,9 +10,11 @@ The purpose of this project was to use VBA, a prograaming langued used by excel 
 Results
    
   Challenges
+  
   To be honest, this challenge was very difficult for me and I did not complete the challenge according to the requirements. Although I was able to get the correct output, I was using a code that I learned throughout the module because I was unable to run the refractored script. Therefore, I was unable to find the difference between the original script run time and the modified one. Nevertheless, I was still able to compare the Return outputs.
    
   Comparing 2017 & 2018 results
+  
   Overall, 2017 showed to have greater return in each market compared to 2018, in which 9 out of the 11 portofolios were in the negatives. In 2017, only one portfolio had a negative return (-7.2%), while the highest return was seen by DAQO (199.4%). Additionally, ENPH and RUN were the two portfolios that had a positive return in both 2017 and 2018. The analysis showed a postive upward trend in percentage return, potentially making it a worthy stock to invest in. 
     
 Summary
