@@ -20,7 +20,9 @@ Results
 Summary
     
   What are the advantages or disadvantages of refactoring code?
+    
     The main advantage of refractoring code is that it cuts down on the analysis time and allows for consistency across multiple data sets. This also allows users to maintain one core code that can be cleaned and organized. The only disadvantage I believe this has is that it may create confusion if the code is not properly labeled with comments/notes. 
   
   How do these pros and cons apply to refactoring the original VBA script?
+     
      Althought I was unable to compare the run time for the original and refractored codes, I assume that the refractored code run time was shorter than the original. 
